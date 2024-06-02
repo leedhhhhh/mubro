@@ -23,7 +23,7 @@ export const Box = styled.div`
 	backface-visibility: hidden;
 
 	&:hover .image {
-		opacity: 0.3;
+		opacity: 0.2;
 	}
 
 	> div:nth-child(2n-1) {
