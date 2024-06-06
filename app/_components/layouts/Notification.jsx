@@ -6,7 +6,11 @@ const Notification = () => {
 		<>
 			<X.Container>
 				<X.Arrow></X.Arrow>
-				<X.Title>Mubro Notification Download</X.Title>
+				<X.Title>Work</X.Title>
+				<X.WorkContainerWrap>
+					<div className="box_wrap"></div>
+					<span>브랜딩 구축에 최선을 다하겠습니다.</span>
+				</X.WorkContainerWrap>
 				{/* <X.Title>
 					Mubro는 현업 개발자로서 고객친화적인 웹페이지와 성능 최적화된
 					웹페이지를 위한 퍼블리싱을 진행하고있습니다.

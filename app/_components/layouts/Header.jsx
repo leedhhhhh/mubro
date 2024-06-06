@@ -16,9 +16,10 @@ const Header = () => {
 		<>
 			<X.Container>
 				<X.Description>
-					<p>Mubro Design Template Page</p>
-					<p>Trendy & Mordern</p>
-					<p>Production of professional Web pages</p>
+					{/* <p>Mubro Design Template Page</p> */}
+					<p>Mubro</p>
+					{/* <p>Trendy & Mordern</p>
+					<p>Production of professional Web pages</p> */}
 				</X.Description>
 				<X.SecondDescription>
 					<p>Mubro</p>
